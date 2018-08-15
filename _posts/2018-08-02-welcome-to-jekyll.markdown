@@ -73,6 +73,8 @@ links!
 
 [an EXTREMELY helpful blog](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
 
+-----
+
 p.s. Github is a "repository hosting service." In other words it's a place to store stuff on the web. Many developers use it. We use it at school.
 
 p.p.s. The terminal is a magic window for texting your computer important questions like “wut files u have in u?”, “will u install dis 4 me?”, and "u up?"
