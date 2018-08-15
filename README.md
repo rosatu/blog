@@ -1,1 +1,1 @@
-# this is a website that I wat to put on pages
+# This is my website that I want to put on Github pages

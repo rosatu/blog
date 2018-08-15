@@ -67,11 +67,11 @@ Well... let's hope I'm right. Can't tell you yet. I have to finish this post fir
 
 links!
 
-https://jekyllrb.com/ - to make your own Jekyll site
+[to make your own Jekyll site](https://jekyllrb.com/)
 
-https://jdbean.net/blogging-workflow/ - helpful
+[a helpful blog](https://jdbean.net/blogging-workflow/)
 
-https://www.taniarascia.com/make-a-static-website-with-jekyll/ -EXTREMELY helpful
+[an EXTREMELY helpful blog](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
 
 p.s. Github is a "repository hosting service." In other words it's a place to store stuff on the web. Many developers use it. We use it at school.
 
