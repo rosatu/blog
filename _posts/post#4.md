@@ -1,0 +1,88 @@
+---
+layout: post
+title:  Don't be a Cashew
+date:   2018-09-05 21:18:27 -0400
+categories: jekyll update
+---
+We know back or wrist surgery could costs thousands of dollars, we know constant physical pain makes life unbearable, yet all of us are still doing things that over time will make our lives worse. For programmers specifically this means sitting with bad posture, eating garbage, and not taking any breaks.
+
+Take a look at this loop:
+```js
+for (let i = “my pain”, while I still don’t need surgery, i++)  {
+	myBody = “bad posture” + “eating garbage” + “wrists and eyes in a static position”
+}
+```
+
+This equation will keep returning discomfort, which will eventually become chronic pain, and a body that’s older and more dysfunctional than it has to be.
+
+I don’t think I need to cite stats, and articles and logical reasons why we should all be healthier. We know that stuff. So then why do we act the way we act?
+
+I know one reason. It’s because:
+
+`chips === “delicious”`
+
+It’s because:
+
+`stress + chips === “temporary relief”`
+
+It’s because:
+
+
+```
+function myPriorities(x, y){
+if( x > y ){
+	return `${x} is my priority.`
+} else if( y > x ){
+	return `${x} is my priority.`
+} else {
+	return “What are your priorities? Do you have any?”
+}
+
+function myPriorities(“temporary relief” , “long-term health”)
+```
+
+>I've struggled with back pain for years, I’ve quit jobs because of the toll it was taking on my body, and so I’m really interested in making sure that my career as a programmer is as healthy and pain-free as it can be.
+
+Here are a few things I already do:
+	-walk 4 miles a day
+	-stretch in the morning
+	-take a break at 4 for a 3 minute plank and 30 pushups and squats
+
+Here are a few things I’d like to do:
+
+### Train myself to sit better
+
+I read an article on NPR which details the problem with how Americans sit. Key takeaways:
+ 	-Most American’s sit with the spine curved like a “cashew nut.” Sitting like this will “damage the shock absorbers in your spine.”
+	-The solution is to bend at the hips when you sit, keeping a curve at your lower back.
+	-If it helps you can imagine you’re an animal with a tail and sit so that your tail can wag.
+
+
+### Get equipment to guard against repetitive strain injuries, carpal tunnel, and eye-damage.
+
+ I’ve already begun using an external mouse instead of the laptop mouse, taking advantage of the external monitors at school, and wearing blue-light glasses when I know I’m going to be looking at the screen for a long period of time. But there’s more I can do:
+	-Buy a mechanical keyboard and a wrist guard.
+	-Buy a self massager for my shoulders
+	-Use one of those apps that  will remind me to take breaks.
+
+### Develop a routine to protect my hands and eyes.
+
+Every time I take a break, this is what it might look like
+	-I walk somewhere quiet
+	-Close my eyes
+	-Stretch my arms up and in front of me
+	-Rotate my wrists
+	-Rotate them upwards (opposite of the typing position)
+ 	-Open my palms
+	-Put each individual finger down
+	-And then up again.
+
+### Stop stress-eating so many snacks
+
+This one is pretty self-explanatory. Every time I want or am offered a snack I will check in with myself:
+	-Do I really want this snack?
+	-How will having eaten this snack make me feel in 10 minutes?
+	-How truly delicious is this snack?
+	-What are my priorities?
+
+So this is my plan. If anyone wants to join me I welcome you. May we all be happy, healthy, and great at code.
