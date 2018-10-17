@@ -38,7 +38,7 @@ What I've done so far is this:
 
 -Tried to use three custom blogging sites and left each cause I was mad at it.
 
--Discovered that there are "open-source"(free and accessible) alternatives, one of which is called "Jekyll"
+-Discovered there are "open-source"(free and accessible) alternatives, one of which is called "Jekyll"
 
 -Went to the Jekyll website and followed instructions to install
 
@@ -61,10 +61,7 @@ So I guess I should post this site on a "remote server." Which I think just mean
 
 Well... let's hope I'm right. Can't tell you yet. I have to finish this post first in order to see whether I've succeeded. But chances are, if you're seeing this, I have.
 
-
-
-
-
+-----
 links!
 
 [to make your own Jekyll site](https://jekyllrb.com/)
